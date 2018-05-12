@@ -1,4 +1,8 @@
 _repo: The-Eve-of-the-Reformation-Studies-in-the-Religious-Life-and-Thought-of-the-English-people-in__50328
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50328-h/images/cover.jpg
 creator:
   author:
     agent_name: Gasquet, Francis Aidan
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '37321'
     url: http://www.gutenberg.org/2009/agents/37321
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50328#The-Eve-of-the-Reformation-Studies-in-the-Religious-Life-and-Thought-of-the-English-people-in_
 gutenberg_issued: '2015-10-27'
 gutenberg_type: Text
 identifiers:
